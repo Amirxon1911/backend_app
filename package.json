@@ -1,0 +1,18 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "NodeJS application",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "NodeJS",
+    "ExpressJS"
+  ],
+  "author": "Amirxon Bahodirov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
